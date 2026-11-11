@@ -1,0 +1,155 @@
+[
+  {
+    "id": "T01",
+    "candidate": "Python-разработчик, 3 года коммерческого опыта. Использовал Python, Django, PostgreSQL, Docker. Английский B2.",
+    "vacancy": "Ищем Python backend-разработчика: обязательно Python и Django, желательно Docker и опыт PostgreSQL.",
+    "expected_skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Docker",
+      "English"
+    ],
+    "ambiguous": false,
+    "notes": "Базовый профиль backend."
+  },
+  {
+    "id": "T02",
+    "candidate": "Аналитик данных: SQL, Excel, Power BI. Строил дашборды и отчёты, опыт 2 года.",
+    "vacancy": "Требуются SQL, Power BI, статистика и Python.",
+    "expected_skills": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
+    "ambiguous": false,
+    "notes": "Проверка аналитических инструментов."
+  },
+  {
+    "id": "T03",
+    "candidate": "Frontend: JavaScript, TypeScript, React, HTML, CSS. Работал над SPA.",
+    "vacancy": "React-разработчик. Нужны React, TypeScript, Redux, тестирование.",
+    "expected_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "ambiguous": false,
+    "notes": "Проверка нормализации frontend."
+  },
+  {
+    "id": "T04",
+    "candidate": "Руководил командой из 6 человек, планировал спринты, проводил 1:1, согласовывал сроки с заказчиком.",
+    "vacancy": "Project manager: управление командой, Agile/Scrum, бюджетирование.",
+    "expected_skills": [
+      "team management",
+      "sprint planning",
+      "stakeholder communication"
+    ],
+    "ambiguous": false,
+    "notes": "Soft skills и управление."
+  },
+  {
+    "id": "T05",
+    "candidate": "DevOps engineer. AWS, Kubernetes, Terraform, CI/CD, Linux; поддерживал production.",
+    "vacancy": "Обязательны Kubernetes и AWS. Terraform будет плюсом.",
+    "expected_skills": [
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Linux"
+    ],
+    "ambiguous": false,
+    "notes": "Инфраструктурные навыки."
+  },
+  {
+    "id": "T06",
+    "candidate": "Работал с данными и делал отчёты. Упоминается Python в списке интересов, коммерческого опыта нет.",
+    "vacancy": "Ищем senior Python engineer с опытом разработки микросервисов.",
+    "expected_skills": [
+      "reporting",
+      "Python"
+    ],
+    "ambiguous": true,
+    "notes": "Навык в интересах не равен подтверждённому рабочему опыту."
+  },
+  {
+    "id": "T07",
+    "candidate": "Резюме: «быстро учусь, коммуникабельный, ответственный». Конкретные технологии и проекты не указаны.",
+    "vacancy": "Вакансия требует Java, Spring Boot и PostgreSQL.",
+    "expected_skills": [],
+    "ambiguous": true,
+    "notes": "Пустое/малосодержательное резюме."
+  },
+  {
+    "id": "T08",
+    "candidate": "Маркетолог: Google Analytics 4, Google Ads, SEO, email-маркетинг, A/B-тесты. Английский C1.",
+    "vacancy": "Нужны performance marketing, аналитика, Google Ads и английский.",
+    "expected_skills": [
+      "Google Analytics 4",
+      "Google Ads",
+      "SEO",
+      "email marketing",
+      "A/B testing",
+      "English"
+    ],
+    "ambiguous": false,
+    "notes": "Маркетинговые компетенции."
+  },
+  {
+    "id": "T09",
+    "candidate": "Java developer: Java 17, Spring Boot, Maven, JUnit, PostgreSQL. 5 лет опыта.",
+    "vacancy": "Backend-разработчик Java: Java, Spring, REST API, SQL; опыт от 3 лет.",
+    "expected_skills": [
+      "Java",
+      "Spring Boot",
+      "Maven",
+      "JUnit",
+      "PostgreSQL"
+    ],
+    "ambiguous": false,
+    "notes": "Синонимы Spring/Spring Boot и опыт."
+  },
+  {
+    "id": "T10",
+    "candidate": "Кандидат указал: «Python, SQL, Excel». Не указаны проекты, длительность опыта и уровень владения.",
+    "vacancy": "",
+    "expected_skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "ambiguous": true,
+    "notes": "Нет вакансии и уровня навыков; нельзя домысливать."
+  },
+  {
+    "id": "T11",
+    "candidate": "UX/UI designer: Figma, прототипирование, user research, usability testing, дизайн-системы.",
+    "vacancy": "Нужны Figma, UX research, accessibility и опыт дизайн-систем.",
+    "expected_skills": [
+      "Figma",
+      "prototyping",
+      "user research",
+      "usability testing",
+      "design systems"
+    ],
+    "ambiguous": false,
+    "notes": "Дизайн и исследовательские навыки."
+  },
+  {
+    "id": "T12",
+    "candidate": "Бухгалтер: 1С:Бухгалтерия, Excel, подготовка первичной документации, сверка взаиморасчётов.",
+    "vacancy": "Требуются бухгалтерский учёт, 1С и Excel. Знание МСФО желательно.",
+    "expected_skills": [
+      "1C Accounting",
+      "Excel",
+      "accounting",
+      "reconciliation"
+    ],
+    "ambiguous": false,
+    "notes": "Отраслевая терминология."
+  }
+]

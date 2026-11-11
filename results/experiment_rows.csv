@@ -1,0 +1,25 @@
+﻿ambiguous,completion_tokens,error,id,latency_seconds,llm_calls,mode,prompt_tokens,skill_f1,skill_precision,skill_recall,success,total_tokens
+False,3490,,T01,41.814,1,one-shot,731,1.0,1.0,1.0,True,4221
+False,1923,,T02,27.523,1,one-shot,717,1.0,1.0,1.0,True,2640
+False,2923,,T03,33.512,1,one-shot,716,1.0,1.0,1.0,True,3639
+False,1972,,T04,16.225,1,one-shot,730,0.2857,0.25,0.3333,True,2702
+False,2212,,T05,24.349,1,one-shot,710,1.0,1.0,1.0,True,2922
+True,2625,,T06,24.028,1,one-shot,723,0.5,0.5,0.5,True,3348
+True,3506,,T07,33.907,1,one-shot,721,0.0,0.0,1.0,True,4227
+False,4123,,T08,56.048,1,one-shot,720,0.5,0.5,0.5,True,4843
+False,3118,,T09,36.289,1,one-shot,721,1.0,1.0,1.0,True,3839
+True,1547,,T10,12.772,1,one-shot,703,1.0,1.0,1.0,True,2250
+False,2006,,T11,29.145,1,one-shot,719,0.6,0.6,0.6,True,2725
+False,3768,,T12,33.352,1,one-shot,738,0.25,0.25,0.25,True,4506
+False,4118,,T01,54.606,3,workflow,1521,0.8,0.8,0.8,True,5639
+False,3613,,T02,49.758,3,workflow,1473,1.0,1.0,1.0,True,5086
+False,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T03,21.849,4,workflow,0,,,,False,0
+False,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T04,2.286,2,workflow,0,,,,False,0
+False,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T05,2.218,2,workflow,0,,,,False,0
+True,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T06,2.208,2,workflow,0,,,,False,0
+True,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T07,2.214,2,workflow,0,,,,False,0
+False,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T08,2.241,2,workflow,0,,,,False,0
+False,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T09,2.288,2,workflow,0,,,,False,0
+True,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T10,2.498,2,workflow,0,,,,False,0
+False,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T11,2.407,2,workflow,0,,,,False,0
+False,0,Ошибка обращения к OpenRouter: RateLimitError: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day,T12,2.379,2,workflow,0,,,,False,0

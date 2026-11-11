@@ -1,0 +1,18 @@
+{
+  "one-shot": {
+    "success_rate": 1.0,
+    "mean_latency_seconds": 30.747,
+    "mean_llm_calls": 1.0,
+    "mean_total_tokens_successful": 3488.5,
+    "mean_skill_f1_successful": 0.677975,
+    "successful_runs_for_quality_metrics": 12
+  },
+  "workflow": {
+    "success_rate": 0.16666666666666666,
+    "mean_latency_seconds": 12.246,
+    "mean_llm_calls": 2.3333333333333335,
+    "mean_total_tokens_successful": 5362.5,
+    "mean_skill_f1_successful": 0.9,
+    "successful_runs_for_quality_metrics": 2
+  }
+}

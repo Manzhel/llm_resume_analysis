@@ -1,0 +1,2 @@
+Backend-разработчик. Обязательные требования: Python, Django, PostgreSQL,
+опыт разработки REST API. Желательно: Docker, CI/CD и английский от B2.

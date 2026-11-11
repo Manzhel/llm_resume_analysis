@@ -1,0 +1,2 @@
+Python-разработчик с опытом 3 года. Разрабатывал REST API на Python и Django,
+работал с PostgreSQL, Docker и Git. Участвовал в code review. Английский B2.

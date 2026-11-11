@@ -1,0 +1,138 @@
+{
+  "result": {
+    "candidate": {
+      "candidate_summary": "Python-разработчик с опытом 3 года. Разрабатывал REST API на Python и Django, работал с PostgreSQL, Docker и Git. Участвовал в code review. Английский B2.",
+      "skills": [
+        {
+          "name": "Python",
+          "category": "programming",
+          "proficiency": "unknown",
+          "evidence": "Разрабатывал REST API на Python",
+          "confidence": 0.95
+        },
+        {
+          "name": "Django",
+          "category": "programming",
+          "proficiency": "unknown",
+          "evidence": "Разрабатывал REST API на Python и Django",
+          "confidence": 0.95
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "data",
+          "proficiency": "unknown",
+          "evidence": "работал с PostgreSQL",
+          "confidence": 0.95
+        },
+        {
+          "name": "Docker",
+          "category": "devops",
+          "proficiency": "unknown",
+          "evidence": "работал с Docker",
+          "confidence": 0.95
+        },
+        {
+          "name": "Git",
+          "category": "other",
+          "proficiency": "unknown",
+          "evidence": "работал с Git",
+          "confidence": 0.8
+        },
+        {
+          "name": "Code review",
+          "category": "communication",
+          "proficiency": "unknown",
+          "evidence": "Участвовал в code review",
+          "confidence": 0.6
+        },
+        {
+          "name": "English",
+          "category": "languages",
+          "proficiency": "intermediate",
+          "evidence": "Английский B2",
+          "confidence": 1.0
+        }
+      ],
+      "education": [],
+      "experience_years": 3.0,
+      "additional_notes": []
+    },
+    "vacancy": {
+      "overall_match": "high",
+      "matches": [
+        {
+          "requirement": "Обязательно: Python",
+          "related_candidate_skills": [
+            "Python"
+          ],
+          "status": "match",
+          "explanation": "Навык Python указан в резюме с подтверждением опыта разработки REST API."
+        },
+        {
+          "requirement": "Обязательно: Django",
+          "related_candidate_skills": [
+            "Django"
+          ],
+          "status": "match",
+          "explanation": "Навык Django указан в резюме с подтверждением опыта разработки REST API."
+        },
+        {
+          "requirement": "Обязательно: PostgreSQL",
+          "related_candidate_skills": [
+            "PostgreSQL"
+          ],
+          "status": "match",
+          "explanation": "Навык PostgreSQL указан в резюме."
+        },
+        {
+          "requirement": "Обязательно: опыт разработки REST API",
+          "related_candidate_skills": [
+            "Python",
+            "Django"
+          ],
+          "status": "match",
+          "explanation": "В резюме указан опыт разработки REST API на Python и Django."
+        },
+        {
+          "requirement": "Желательно: Docker",
+          "related_candidate_skills": [
+            "Docker"
+          ],
+          "status": "match",
+          "explanation": "Навык Docker указан в резюме."
+        },
+        {
+          "requirement": "Желательно: CI/CD",
+          "related_candidate_skills": [],
+          "status": "not_found",
+          "explanation": "CI/CD не упомянуто в предоставленном резюме."
+        },
+        {
+          "requirement": "Желательно: английский от B2",
+          "related_candidate_skills": [
+            "English"
+          ],
+          "status": "match",
+          "explanation": "Уровень английского B2 (intermediate) указан в резюме."
+        }
+      ],
+      "missing_or_unclear_requirements": [
+        "CI/CD"
+      ],
+      "caveats": [
+        "Уровень владения техническими навыками в профиле указан как unknown, точная степень владения не определена."
+      ]
+    },
+    "recommendation": "Кандидат соответствует всем обязательным требованиям и большинству желательных. Рекомендуется пригласить на собеседование для уточнения уровня владения навыками и опыта работы с CI/CD.",
+    "limitations": [
+      "Отсутствие упоминания CI/CD в резюме не является доказательством отсутствия навыка.",
+      "Данные о стажировке по отдельным навыкам и уровне владения ими ограничены."
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 1681,
+    "completion_tokens": 5329,
+    "total_tokens": 7010
+  },
+  "mode": "workflow"
+}
